@@ -1,0 +1,11 @@
+# PyTorch: install the CUDA build matching your cluster first, e.g.
+#   pip install torch --index-url https://download.pytorch.org/whl/cu121
+torch>=2.1
+numpy>=1.24
+scipy>=1.11
+pandas>=2.0
+openpyxl>=3.1
+nibabel>=5.0
+statsmodels>=0.14
+matplotlib>=3.7
+pyyaml>=6.0
